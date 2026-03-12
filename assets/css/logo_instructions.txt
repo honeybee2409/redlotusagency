@@ -1,0 +1,4 @@
+/* 
+Since I don't have access to save the image directly to the file system right now,
+I'll update the CSS to use the logo and instruct the user on where to save it. 
+*/
